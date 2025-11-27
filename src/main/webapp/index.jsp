@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "THIS IS DEVOPS!" %></h2>
+<h2><%= "doker container!" %></h2>
 </body>
 </html>
