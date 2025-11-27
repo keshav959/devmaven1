@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "doker container2!!" %></h2>
+<h2><%= "docker container" %></h2>
 </body>
 </html>
